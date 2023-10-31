@@ -5,7 +5,7 @@
 
 请查阅这个 Vlog *[仙本那自由行](https://www.bilibili.com/video/BV11V411674K/?spm_id_from=333.337.search-card.all.click)* 获得仙本那旅游的总览. 
 
-*Weather*
+*天气*
 
 仙本那的11月到5月是旱季,气温23到30摄氏度, 需要防晒.
 
@@ -20,12 +20,12 @@ Omitted
 
 | Data | Description | Location| Arrangement|Accomodation|Food|
 | --- | ----------- | ---------|----|--|--|
-|21 (arrive at Cebu Mactan)| Fly to Cebu and rest| Mactan(麦克坦,机场岛)|Eat and rest|*[Summit Galleria Cebu](https://us.trip.com/hotels/detail/?cityId=1239&hotelId=7299688&checkIn=2023-01-21&checkOut=2023-01-23&adult=6&children=0&subStamp=1037&crn=3&ages=&travelpurpose=0&curr=HKD&link=button&hoteluniquekey=H4sIAAAAAAAAAOPazsTFJMEmxMTBKLWGiePh6693mC0mCjkag4B2sYPnm8AdcqyXFjgE8Exi9OC8vrjAlqtimYMgAwjELHJQ0uG4_aFLXEBL4s7D-5YKrJpgCQYOB0MYw-KyQBArx1EmCZYoBic2jud7gKxJjF6cra-BJouSYdR-sFEajEDD1m0Hsmcwvjiyl3kFI-NGxodVIuvce4sddjAyHWD89x8KGE8w3mBawLTk1UypXUxsHPvv8EmwHAIyXkwE6j7FxMrxmF-C5RITwy0mhkdMDK-YGD4xMfwCynftAso3MbNyXATSXcwMk0BMXQmWWcwMi5gZpHgNE40MEi0MjZNSzC1NFYQ0vuw6NYfNSGYSI5OH9ylGEUMzMzNjQ3NLCwtDC1M9o9KkzOQ0K2YpRjcPpiA2F1MLYxfjKC0u5gCPAEH2c5KBt6QP2Esxe3i7KIbtmVj5pP-NvRZIzhAml8RalaHr4Z1xkruAuYuRQ4DRgzGCsYLxFSNIDwCvuDvFxwEAAA&subChannel=&masterhotelid_tracelogid=1a20a813bd795&barcurr=HKD&locale=en_us)*|.|
-| 22 | | ||*[Summit Galleria Cebu](https://us.trip.com/hotels/detail/?cityId=1239&hotelId=7299688&checkIn=2023-01-21&checkOut=2023-01-23&adult=6&children=0&subStamp=1037&crn=3&ages=&travelpurpose=0&curr=HKD&link=button&hoteluniquekey=H4sIAAAAAAAAAOPazsTFJMEmxMTBKLWGiePh6693mC0mCjkag4B2sYPnm8AdcqyXFjgE8Exi9OC8vrjAlqtimYMgAwjELHJQ0uG4_aFLXEBL4s7D-5YKrJpgCQYOB0MYw-KyQBArx1EmCZYoBic2jud7gKxJjF6cra-BJouSYdR-sFEajEDD1m0Hsmcwvjiyl3kFI-NGxodVIuvce4sddjAyHWD89x8KGE8w3mBawLTk1UypXUxsHPvv8EmwHAIyXkwE6j7FxMrxmF-C5RITwy0mhkdMDK-YGD4xMfwCynftAso3MbNyXATSXcwMk0BMXQmWWcwMi5gZpHgNE40MEi0MjZNSzC1NFYQ0vuw6NYfNSGYSI5OH9ylGEUMzMzNjQ3NLCwtDC1M9o9KkzOQ0K2YpRjcPpiA2F1MLYxfjKC0u5gCPAEH2c5KBt6QP2Esxe3i7KIbtmVj5pP-NvRZIzhAml8RalaHr4Z1xkruAuYuRQ4DRgzGCsYLxFSNIDwCvuDvFxwEAAA&subChannel=&masterhotelid_tracelogid=1a20a813bd795&barcurr=HKD&locale=en_us)*||
-| 23 | 前往薄荷岛,薄荷岛环岛游 |*[Bohol(薄荷岛)](https://www.kkday.com/en/product/134610)*|Chotolacte Hill,*[Tarsiidae](https://zh.wikipedia.org/wiki/%E7%9C%BC%E9%8F%A1%E7%8C%B4)*|*[Blue water](https://hk.trip.com/hotels/detail/?cityId=4257&hotelId=759868&checkIn=2023-01-23&checkOut=2023-01-25&adult=6&children=0&subStamp=285&crn=3&ages=&travelpurpose=0&curr=HKD&link=button&hoteluniquekey=H4sIAAAAAAAAAOO6xMjFJMEmxMTBKHWckWPunhOPWIQ4jYyMDU0MLAyMDLawWizUdjz8VSOmn6HFwfMbkG5asNEhgGcSoxTnm8Adcq3S0Q6CaSBgFuHgxMbxYjKrBMskRhnOmP5DXzXeRCEkNRiB0sv7gdIzGPds0NvICDG11WEHI9MBRpYTjGdYFzCtbV0ptouJjWPtSzkJlkNAxrnTLBIsp5gYLjEx3GJieMTE8IqJ4RMTwy-g1ImJQLOamBm6mBkmMbNy_EiUYJnFzLCImUGK1zTRzNDAwMQ82dwwMUVBSOPd91Nz2IxMOBgVGLUE4kOCPbzTio2zUqosM41MMwwYJzEyeXifYhQxNDMzMzY0t7SwMLQw1TMqTcpMTrNilmJ082AKYnN1c3ZzNIjS4mIODXYR3L2jl-3DNWkHKWYPbxfFnQUKKtwz3thrMQd4BBiyn5MMvCV9wD6JtSpD18M74zR3AXMXI4cAowdjBGMF4ytGkB4ApeXzvnoBAAA&subChannel=&masterhotelid_tracelogid=5a610047c71ad&barcurr=HKD&locale=en_hk)*||
-| 24 | 薄荷岛周边跳岛游 |*[Bohol(薄荷岛)](https://www.kkday.com/zh-cn/product/9579)*|*[Balicasag Island, Virgin Island](https://www.youtube.com/watch?v=qBrFjzZ9BuM)*|*[Blue water](https://hk.trip.com/hotels/detail/?cityId=4257&hotelId=759868&checkIn=2023-01-23&checkOut=2023-01-25&adult=6&children=0&subStamp=285&crn=3&ages=&travelpurpose=0&curr=HKD&link=button&hoteluniquekey=H4sIAAAAAAAAAOO6xMjFJMEmxMTBKHWckWPunhOPWIQ4jYyMDU0MLAyMDLawWizUdjz8VSOmn6HFwfMbkG5asNEhgGcSoxTnm8Adcq3S0Q6CaSBgFuHgxMbxYjKrBMskRhnOmP5DXzXeRCEkNRiB0sv7gdIzGPds0NvICDG11WEHI9MBRpYTjGdYFzCtbV0ptouJjWPtSzkJlkNAxrnTLBIsp5gYLjEx3GJieMTE8IqJ4RMTwy-g1ImJQLOamBm6mBkmMbNy_EiUYJnFzLCImUGK1zTRzNDAwMQ82dwwMUVBSOPd91Nz2IxMOBgVGLUE4kOCPbzTio2zUqosM41MMwwYJzEyeXifYhQxNDMzMzY0t7SwMLQw1TMqTcpMTrNilmJ082AKYnN1c3ZzNIjS4mIODXYR3L2jl-3DNWkHKWYPbxfFnQUKKtwz3thrMQd4BBiyn5MMvCV9wD6JtSpD18M74zR3AXMXI4cAowdjBGMF4ytGkB4ApeXzvnoBAAA&subChannel=&masterhotelid_tracelogid=5a610047c71ad&barcurr=HKD&locale=en_hk)*||
-| 25 | 坐船返回Cebu,包车前往MoalBoal|*[Moal Boal(墨宝)](https://www.kkday.com/en/product/34000)*|*[Dive and watch the storm of Sardines](https://www.youtube.com/watch?v=d8XPaP9ODYI)*](https://www.kkday.com/en/product/134610)*|*[Watch Whale Shark,Jump the Kawasan waterfall](https://www.youtube.com/watch?v=-iaobHU9gCg)*|*[Mango Dream](https://www.airbnb.com/rooms/47168296?adults=6&check_in=2023-01-25&check_out=2023-01-26&source_impression_id=p3_1670554909_U0cRRv194VsNejRI&locale=en&_set_bev_on_new_domain=1670047572_NDk4ZDUwNDg1NGYx)*||
-| 26 | Kawasan waterfall 下午返回 Cebu|*[Moal Boal(墨宝)](https://www.kkday.com/en/product/34000)*|*[Dive and watch the storm of Sardines](https://www.youtube.com/watch?v=d8XPaP9ODYI)*|Go Back to Hong Kong|.|
+|03 | Fly to Kuala Lumpur (吉隆坡) and then transfer to Tawau (斗湖). Take a car to go to Semporna (仙本那)| Semporna |Eat and rest|.|[灯塔酒店](https://world.taobao.com/item/717811500501.htm)|
+| 04 | | ||||
+| 05 | |||
+| 06 |  |||
+| 07 | ||||
+| 08 | ||.|
 
 <!--## Part 5 Actual Experience and Reference Price
 
