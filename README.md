@@ -24,8 +24,8 @@ Omitted
 | 04 | Go to Pulau Pom Pom (邦邦岛) to learn OW |*[Pulau Pom Pom ](https://hk.trip.com/travel-guide/attraction/pom-pom-island/pom-pom-island-10522911/)* |在度假村的浅水区拉着绳子学习48项水肺潜水技巧|*[灯塔酒店](https://world.taobao.com/item/717811500501.htm)*||
 | 05 |Go to Pulau Pom Pom (邦邦岛) to learn OW |*[Pulau Pom Pom ](https://hk.trip.com/travel-guide/attraction/pom-pom-island/pom-pom-island-10522911/)*|今天正式在邦邦岛周围潜水啦,海龟保育基地周围有很多海龟|*[灯塔酒店](https://world.taobao.com/item/717811500501.htm)*|
 | 06 | Go to Mataking (马达京) and Kapalai (卡帕莱) |*[Mataking](https://hk.trip.com/travel-guide/destination/mataking-128751/)*, *[Kapalai](https://www.sipadan.com/cn/scuba-dive-kapalai.php)*|在周围潜水三次|*[灯塔酒店](https://world.taobao.com/item/717811500501.htm)*||
-| 07 | ||||
-| 08 | ||.|
+| 07 | Go back to Kuala Lumpur |*[Kuala Lumpur](https://hk.trip.com/travel-guide/destination/kuala-lumpur-45/)*|||
+| 08 | Go back to Shang Hai ||.|
 
 <!--## Part 5 Actual Experience and Reference Price
 
