@@ -1,9 +1,8 @@
-# Semporna - Malaysia 03. Feb. 2024 - 08. Feb 2024 
+# Semporna - Malaysia (03. Feb. 2024 - 08. Feb 2024) 
 <!--### 我一向,亲自组织,亲自规划-->
-## Part 1 Introduction to Cebu
-Cebu City, known as 宿务(宿雾), is a 1st class highly urbanized city in the Central Visayas region of the Philippines and capital of the Cebu Province.
-Cebu is on an island away from Manila. As tourism is a thriving industry in Cebu, there is no need to worry about the security in Cebu. 
-You may refer to the Vlog *[宿务旅游攻略2022-1](https://youtu.be/qIB_sNAncQU)* and *[宿务旅游攻略2022-2](https://youtu.be/VCAyanD0o-I)* for latest tourist experiences. 
+## Part 1 Introduction to Semporna
+仙本那位於馬來西亞沙巴州東南海岸，是斗湖省的一個縣。在馬來語中有“完美”的意思。岸外的馬布島也是沙巴的著名旅遊景點之一。這裡因地勢優勢，從沒有颱風和地震，使這裡的海面仿佛伊甸園般寧靜優美，松綠色的海水清澈見底，孕育了潛水者的天堂詩巴丹，吸引著全世界的潛水愛好者來此“朝聖”，從此聲名遠揚。
+You may refer to the Vlog *[仙本那自由行](https://www.bilibili.com/video/BV11V411674K/?spm_id_from=333.337.search-card.all.click)* for latest tourist experiences. 
 
 *Weather*
 
