@@ -20,7 +20,7 @@ Omitted
 
 | Data | Description | Location| Arrangement|Accomodation|Food|
 | --- | ----------- | ---------|----|--|--|
-|03 | Fly to Kuala Lumpur (吉隆坡) and then transfer to Tawau (斗湖). Take a car to go to Semporna (仙本那)| Semporna |Eat and rest|.|[灯塔酒店](https://world.taobao.com/item/717811500501.htm)|
+|03 | Fly to Kuala Lumpur (吉隆坡) and then transfer to Tawau (斗湖). Take a car to go to Semporna (仙本那)| Semporna |Eat and rest|*[灯塔酒店](https://world.taobao.com/item/717811500501.htm)*||
 | 04 | | ||||
 | 05 | |||
 | 06 |  |||
