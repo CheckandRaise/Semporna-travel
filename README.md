@@ -14,13 +14,13 @@
 
 
 ## Part 3 Airline tickets
-#Huanyu
+Omitted.
 
 ## Part 4 Itinerary
 
 | Data | Description | Location| Arrangement|Accomodation|Food|
 | --- | ----------- | ---------|----|--|--|
-|03 | Fly to Kuala Lumpur (吉隆坡) and then transfer to Tawau (斗湖). Take a car to go to Semporna (仙本那)| Semporna |Eat and rest|*[灯塔酒店](https://world.taobao.com/item/717811500501.htm)*||
+|03 | Fly to Kuala Lumpur (吉隆坡) and then transfer to Tawau (斗湖). Take a car to go to Semporna (仙本那)| Semporna |Eat and rest|*[菠萝的海](https://www.booking.com/hotel/my/opine-villas-47-bo-luo-de-hai-du-jia-bie-shu.zh-cn.html)*||
 | 04 | Go to Pulau Pom Pom (邦邦岛) to learn OW |*[Pulau Pom Pom ](https://hk.trip.com/travel-guide/attraction/pom-pom-island/pom-pom-island-10522911/)* |在度假村的浅水区拉着绳子学习48项水肺潜水技巧|*[灯塔酒店](https://world.taobao.com/item/717811500501.htm)*||
 | 05 |Go to Pulau Pom Pom (邦邦岛) to learn OW |*[Pulau Pom Pom ](https://hk.trip.com/travel-guide/attraction/pom-pom-island/pom-pom-island-10522911/)*|今天正式在邦邦岛周围潜水啦,海龟保育基地周围有很多海龟|*[灯塔酒店](https://world.taobao.com/item/717811500501.htm)*|
 | 06 | Go to Mataking (马达京) and Kapalai (卡帕莱) |*[Mataking](https://hk.trip.com/travel-guide/destination/mataking-128751/)*, *[Kapalai](https://www.sipadan.com/cn/scuba-dive-kapalai.php)*|在周围潜水三次|*[灯塔酒店](https://world.taobao.com/item/717811500501.htm)*||
