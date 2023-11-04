@@ -14,9 +14,9 @@
 
 
 ## Part 3 Airline tickets
-Omitted
+#Huanyu
 
-## Part 4 Arrangement
+## Part 4 Itinerary
 
 | Data | Description | Location| Arrangement|Accomodation|Food|
 | --- | ----------- | ---------|----|--|--|
