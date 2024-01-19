@@ -12,6 +12,8 @@
 ## Part 2 Visa
 电子签证提前三个月申请即可,已查阅飞猪240元,3天包出.
 
+刚刚办完就免签了，太小丑了(updated)
+
 
 ## Part 3 Airline tickets
 Omitted.
