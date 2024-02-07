@@ -35,7 +35,7 @@ Omitted.
 |Others| 750 MYR |1118.87|
 |Airline| 3189 HKD | 2900|
 |Opin's Villa| 1500 RMB| 1500|
-|Ritz Carlton|545 HKD| 496 RMB|
+|Ritz Carlton|545 HKD| 496 |
 |OW Learning| 2150 RMB| 2150 |
 |Fishing| 268 RMB| 268|
 |Meat More| 396 HKD| 360|
